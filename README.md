@@ -4,7 +4,7 @@ A Deep Learning ANN model that predicts whether a customer interaction will
 result in **Satisfied (CSAT 4-5)** or **Dissatisfied (CSAT 1-3)** feedback,
 built on 85,907 e-commerce service interaction records from the Shopzilla platform.
 
-🔗 **Live App:** [deepcsat-ecommerce.streamlit.app](https://deepcsat-ecommerce.streamlit.app)
+🔗 **Live App:** [deepcsat-ecommerce.streamlit.app](https://www.google.com/url?q=https%3A%2F%2Fdeepcsat-ecommerce-aks21.streamlit.app%2F)
 
 ---
 
