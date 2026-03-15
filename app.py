@@ -178,13 +178,8 @@ with c3:
     st.markdown("**Worst Sub-categories**")
     fig, ax = plt.subplots(figsize=(4, 2.5))
     fig.patch.set_alpha(0); ax.set_facecolor("none")
-    subs   = ["Commission
-related", "Unable
-to Login", "Service
-Denial",
-              "Call
-Disconn.", "Technician
-Visit"]
+    subs   = ["Commission related", "Unable to Login", "Service Denial",
+              "Call Disconn.", "Technician Visit"]
     scores2 = [2.33, 2.43, 3.22, 3.23, 3.49]
     ax.bar(subs, scores2, color="#e74c3c", edgecolor="none", width=0.5)
     ax.axhline(y=4.24, color="gray", linestyle="--", linewidth=1, label="Overall avg 4.24")
